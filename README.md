@@ -1,6 +1,9 @@
 #include<stdio.h>
+
 void main()
-	{
+	
+
+{
 		float x,y;
 	
 		printf("\n Enter the coordinate of the point\n");
